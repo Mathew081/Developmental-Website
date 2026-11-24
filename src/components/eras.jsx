@@ -384,11 +384,11 @@ function BeginningChapter({ onClose }) {
             <div className="grid grid-cols-2 gap-4">
               <figure className="rotate-[-3deg] rounded-xl bg-white p-2 pb-4 shadow-[0_12px_35px_rgba(52,67,74,0.12)]">
                 <img src={miloPhoto} alt="Childhood photograph with Milo the stuffed toy" className="aspect-[3/4] w-full rounded-lg object-cover" />
-                <figcaption className="pt-3 text-center font-display text-sm italic text-[#7C8585]">Milo and me</figcaption>
+                <figcaption className="pt-3 text-center font-display text-sm italic text-[#7C8585]">Litol me</figcaption>
               </figure>
               <figure className="mt-8 rotate-[3deg] rounded-xl bg-white p-2 pb-4 shadow-[0_12px_35px_rgba(52,67,74,0.12)]">
                 <img src={miloFamilyPhoto} alt="Childhood photograph with family and Milo" className="aspect-[3/4] w-full rounded-lg object-cover" />
-                <figcaption className="pt-3 text-center font-display text-sm italic text-[#7C8585]">A little family memory</figcaption>
+                <figcaption className="pt-3 text-center font-display text-sm italic text-[#7C8585]">My kuya and Milo</figcaption>
               </figure>
               <figure className="col-span-2 mx-auto w-2/3 -rotate-2 rounded-xl bg-white p-2 pb-4 shadow-[0_12px_35px_rgba(52,67,74,0.12)] sm:w-1/2">
                 <img src={toddlerFlowerPhoto} alt="Toddler childhood photograph holding a flower" className="aspect-[4/3] w-full rounded-lg object-cover" />
